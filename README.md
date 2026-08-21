@@ -1,5 +1,10 @@
 # StressLoad_Test_Client
 
+![C#](https://img.shields.io/badge/language-C%23-239120)
+![.NET Framework 4.6.2](https://img.shields.io/badge/.NET-Framework%204.6.2-512BD4)
+![WinForms](https://img.shields.io/badge/GUI-Windows_Forms-512BD4)
+![Windows](https://img.shields.io/badge/platform-Windows-0078D6)
+
 A Windows Forms (.NET Framework 4.6.2) stress/load test client.
 
 ## Overview
